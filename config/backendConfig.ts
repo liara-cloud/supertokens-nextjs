@@ -10,7 +10,7 @@ export let backendConfig = (): TypeInput => {
         framework: "express",
         supertokens: {
             // this is the location of the SuperTokens core.
-            connectionURI: "https://try.supertokens.com",
+            connectionURI: "https://supertokens-mckstswzz.liara.run",
         },
         appInfo,
         // recipeList contains all the modules that you want to
